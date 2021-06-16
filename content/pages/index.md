@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Portafolio proyectos.
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Para el área de ciencias de datos y física
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
